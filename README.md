@@ -47,7 +47,7 @@ Selesai
 
 Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
 
-<img src="/hasil/latihan2.png" width="500" alt="">
+<img src="output2.png" width="500" alt="">
 
 
 #### Algorithm:
@@ -83,9 +83,9 @@ Total laba adalah: 190000000.0
 
 ### ATM Sederhana (latihan3.py)
 
-Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
+Program iSni akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
 
-<img src="/hasil/latihan3.png" width="500" alt="">
+<img src="output3.png" width="500" alt="">
 
 
 ## Fitur Program ATM
