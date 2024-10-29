@@ -85,7 +85,7 @@ Total laba adalah: 190000000.0
 
 Program iSni akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
 
-<img src="output3.png" width="500" alt="">
+<img src="ouput3.png" width="500" alt="">
 
 
 ## Fitur Program ATM
