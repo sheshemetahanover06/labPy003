@@ -17,7 +17,7 @@ Repository ini berisi tentang dua buah kode program yang berfungsi untuk men-gen
 
 Sebuah program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user.
 
-<img src="/hasil/latihan1.png" width="500" alt="">
+<img src="output1.png" width="500" alt="">
 
 #### Algorithm:
 
