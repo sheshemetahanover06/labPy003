@@ -1,3 +1,11 @@
+# Data Diri
+
+Nama : She she Metahanover
+
+Nim : 312410432
+
+Kelas :TI,24.A.3
+
 # Latihan Program Python
 
 Repository ini berisi tentang dua buah kode program yang berfungsi untuk men-generate angka random dan tentang perhitungan profit dari investasi.
